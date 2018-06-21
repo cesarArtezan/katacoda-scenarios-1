@@ -25,6 +25,10 @@
 		      {
 			      "file":".bash_aliases",
 			      "target": "~/"
+		      },
+		      {
+			      "file":"test",
+			      "target": "~/"
 		      }
 	      ]
     },
