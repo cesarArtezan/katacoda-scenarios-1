@@ -18,8 +18,9 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData":"mongosetup.sh",
-      "assets":{
+      "courseData":"mongosetup.sh"
+    },
+    "assets":{
 	      "host01":[
 		      {
 			      "file":".bash_aliases",
