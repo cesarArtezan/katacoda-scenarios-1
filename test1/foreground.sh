@@ -1,1 +1,1 @@
-sleep 5; mongowait.sh
+sleep 1; mongowait.sh
