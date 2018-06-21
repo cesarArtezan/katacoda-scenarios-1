@@ -6,7 +6,8 @@
       {
         "title": "Pulling an Image",
         "text": "step1.md",
-	"courseDate":"mongosetup.sh"
+	"courseDate":"mongosetup.sh",
+	"code":"mongosetup.sh"
       },
       {
         "title": "Running a Container",
