@@ -1,18 +1,18 @@
 {
-  "title": "Test #1",
-  "description": "This is a Test",
+  "title": "MongoDB Tutorial",
+  "description": "Basic MongoDB Tutorial",
   "details": {
     "steps": [
       {
-        "title": "Pulling an Image",
+        "title": "Connecting to MongoDB",
         "text": "step1.md"
       },
       {
-        "title": "Running a Container",
+        "title": "Basic Query Syntaz",
         "text": "step2.md"
       },
       {
-        "title": "Stopping a Container",
+        "title": "Some advanced Features",
         "text": "step3.md"
       }
     ],
@@ -20,7 +20,7 @@
       "text": "intro.md",
       "courseData":"mongosetup.sh"
     },
-    "assets":{
+    "assets":{i
 	      "client":[
 		      {
 			      "file":"bash_aliases",

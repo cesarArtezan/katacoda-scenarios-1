@@ -1,1 +1,1 @@
-In this tutorial you will learn how to use basic docker commands.
+In this tutorial you will learn how to use MongoDB.
