@@ -5,9 +5,7 @@
     "steps": [
       {
         "title": "Pulling an Image",
-        "text": "step1.md",
-	"courseDate":"mongosetup.sh",
-	"code":"mongosetup.sh"
+        "text": "step1.md"
       },
       {
         "title": "Running a Container",
