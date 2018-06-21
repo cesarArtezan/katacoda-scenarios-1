@@ -18,7 +18,16 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData":"mongosetup.sh"
+      "courseData":"mongosetup.sh",
+      "assets":{
+	      "client":[
+		      {
+			      "file":".bash_aliases"
+			      "target": "~/"
+		      }
+	      ]
+      }
+
     },
     "finish": {
       "text": "finish.md"
