@@ -20,7 +20,7 @@
       "text": "intro.md",
       "courseData":"mongosetup.sh",
       "assets":{
-	      "client":[
+	      "host01":[
 		      {
 			      "file":".bash_aliases",
 			      "target": "~/"
