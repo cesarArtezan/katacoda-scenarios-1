@@ -22,7 +22,7 @@
       "assets":{
 	      "client":[
 		      {
-			      "file":".bash_aliases"
+			      "file":".bash_aliases",
 			      "target": "~/"
 		      }
 	      ]
