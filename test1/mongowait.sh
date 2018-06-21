@@ -1,4 +1,3 @@
-@echo off
 echo "Waiting for MongoDB container to be ready. Please hold."
 while [ ! "$(docker ps -q -f name=mongo)" ]
 do
