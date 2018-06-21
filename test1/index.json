@@ -19,17 +19,14 @@
     "intro": {
       "text": "intro.md",
       "courseData":"mongosetup.sh",
-      "code": "mongowait.sh"
+      "code": "forground.sh"
     },
     "assets":{
-	      "client":[
+	      "host01":[
 		      {
-			      "file":"bash_aliases",
-			      "target": "~/"
-		      },
-		      {
-			      "file":"test",
-			      "target": "~/"
+			      "file":"mongowait.sh",
+			      "target": "/usr/bin/",
+			      "chmod": "+x"
 		      }
 	      ]
     },
