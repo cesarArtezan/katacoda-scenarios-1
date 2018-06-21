@@ -21,7 +21,7 @@
       "courseData":"mongosetup.sh"
     },
     "assets":{
-	      "host01":[
+	      "client":[
 		      {
 			      "file":".bash_aliases",
 			      "target": "~/"
