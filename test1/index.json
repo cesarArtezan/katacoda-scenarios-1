@@ -18,7 +18,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseCode":"mongosetup.sh"
+      "courseData":"mongosetup.sh"
     },
     "finish": {
       "text": "finish.md"
