@@ -4,15 +4,15 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Pulling an Image",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Running a Container",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Stopping a Container",
         "text": "step3.md"
       }
     ],
