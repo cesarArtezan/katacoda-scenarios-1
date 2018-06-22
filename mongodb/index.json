@@ -9,13 +9,18 @@
 	"code": "foreground.sh"
       },
       {
-        "title": "Basic Query Syntaz",
+        "title": "Databases",
         "text": "step2.md"
       },
       {
-        "title": "Some advanced Features",
+        "title": "Collections",
         "text": "step3.md"
+      },
+      {
+	      "title": "Inserting Documents",
+	      "text": "step4.md"
       }
+
     ],
     "intro": {
       "text": "intro.md",
