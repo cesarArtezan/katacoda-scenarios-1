@@ -22,7 +22,7 @@
       "courseData":"mongosetup.sh"
     },
     "assets":{
-	      "host01":[
+	      "client":[
 		      {
 			      "file":"mongowait.sh",
 			      "target": "/usr/bin/",
