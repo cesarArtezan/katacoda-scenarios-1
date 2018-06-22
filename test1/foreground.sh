@@ -1,1 +1,1 @@
-sleep 1; mongowait.sh
+sleep 1; launch.sh

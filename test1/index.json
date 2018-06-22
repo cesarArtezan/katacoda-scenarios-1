@@ -24,8 +24,13 @@
     "assets":{
 	      "client":[
 		      {
-			      "file":"mongowait.sh",
+			      "file":"launch.sh",
 			      "target": "/usr/bin/",
+			      "chmod": "+x"
+		      },
+		      {
+			      "file":"mongo",
+			      "target":"/usr/bin",
 			      "chmod": "+x"
 		      }
 	      ]
