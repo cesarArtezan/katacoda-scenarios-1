@@ -1,6 +1,5 @@
 We already have MongoDB up and runing for you. It will take a couple of sceonds for it to fire up.
-mongo instance.
-Once our MongoDB instance is up, you can type in `mongo`{{execute}} in the shell, and you will be connected and can start querying the database.
+Once our MongoDB instance is up, you can type `mongo`{{execute}} in the shell, and you will be connected and can start querying the database.
 
 You will see a bunch of warnings in the shell. This is because we have not tuned  our MongoDb instance for production depoyment.
 In the scope of this tutorial this is fine. Use `cls`{{execute}} to clear the screen.
