@@ -7,7 +7,7 @@ For example, to search just for `John` we can do:
 If we search by last name we'll get 2 results, as expected:
 `db.users.find({lname:"Doe"})`{{execute}}
 
-There are a lot of query operators we can use. For example, the `$gt` stands for 'greater than`:
+There are a lot of query operators we can use. For example, the `$gt` stands for 'greater than':
 `db.users.find({age: {$gt: 30}})`{{execute}}
 
 For all the query options, visit MongoDB documentation: 
