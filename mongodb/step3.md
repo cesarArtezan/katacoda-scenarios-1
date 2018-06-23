@@ -9,8 +9,8 @@ as soon as we insert the 1st document.
 To insert a document we use `db.collection_name.insert(document)`, where `document` is the JSON representing the object we would like to store.
 For example:
 `db.users.insert( {
-			fName: "John",
-			lName: "Doe",
+			fname: "John",
+			lname: "Doe",
 			email: "john.does@example.com",
 			age: 25
 		  });`{{execute}}
