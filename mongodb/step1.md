@@ -1,4 +1,4 @@
-We already have MongoDB up and runing for you. It will take a couple of sceonds for it to fire up.
+We already have MongoDB up and runing for you. It will take a couple of seconds for it to fire up.
 Once our MongoDB instance is up, you can type `mongo`{{execute}} in the shell, and you will be connected and can start querying the database.
 
 You will see a bunch of warnings in the shell. This is because we have not tuned  our MongoDb instance for production deployment.
