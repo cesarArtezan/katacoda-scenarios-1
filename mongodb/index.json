@@ -5,8 +5,7 @@
     "steps": [
       {
 	      "title": "Connecting to MongoDB",
-	      "text": "step1.md",
-	      "code": "foreground.sh"
+	      "text": "step1.md"
       },
       {
 	      "title": "Basic Concepts",
@@ -32,7 +31,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData":"mongosetup.sh"
+      "courseData":"mongosetup.sh",
+      "code": "foreground.sh"
     },
     "assets":{
 	      "client":[
