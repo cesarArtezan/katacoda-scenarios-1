@@ -26,6 +26,10 @@
       {
 	      "title": "Basic Query Syntax",
 	      "text": "step6.md"
+      },
+      {
+	      "title": "Updating Documents",
+	      "text" : "step7.md"
       }
 
     ],
