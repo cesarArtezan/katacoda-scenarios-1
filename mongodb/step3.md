@@ -11,7 +11,8 @@ For example:
 `db.users.insert( {
 			fName: "john",
 			lName: "doe",
-			email: "john.does@example.com"
+			email: "john.does@example.com",
+			age: 25
 		  });`{{execute}}
 
 

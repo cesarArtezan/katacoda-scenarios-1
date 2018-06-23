@@ -4,21 +4,25 @@
   "details": {
     "steps": [
       {
-        "title": "Connecting to MongoDB",
-        "text": "step1.md",
-	"code": "foreground.sh"
+	      "title": "Connecting to MongoDB",
+	      "text": "step1.md",
+	      "code": "foreground.sh"
       },
       {
-        "title": "Basic Concepts",
-        "text": "step2.md"
+	      "title": "Basic Concepts",
+	      "text": "step2.md"
       },
       {
-        "title": "Inserting Documents",
-        "text": "step3.md"
+	      "title": "Inserting Documents",
+	      "text": "step3.md"
       },
       {
 	      "title": "Basic Query",
 	      "text": "step4.md"
+      },
+      {
+	      "title": "Document _id",
+	      "text": "step5.md"
       }
 
     ],
