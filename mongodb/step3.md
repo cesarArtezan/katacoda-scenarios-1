@@ -1,0 +1,18 @@
+To work on a specifc databse we use the `use DATABSE_NAME` command.
+In this tutorial we'll work on `mydb`. Type `use mydb`{{execute}} to switch to `mydb` databse.
+
+To check the current databse simple type `db`{{execute}}. 
+
+# Inserting our 1st document
+Let's insert our first documents to a `users` collection. We don't need to create the collection in advance - it will be created
+as soon as we insert the 1st document.
+
+To insert a document we use `db.collection_name.insert(document)`, where `document` is the JSON representing the object we would like to store.
+For example:
+`db.users.insert( {
+			fName: "john",
+			lName: "doe",
+			email: "john.does@example.com"
+		  });`{{execute}}
+
+
