@@ -1,6 +1,6 @@
 # Database
 A database is a set of collections (tables). Each databse is physically stored as files on the host filesystem. A single MongoDB instance can host multiple databases. It is equivalent to an RDBMS schema.
-To see which databases currently exist type `show dbs`{{execute}}. by default you will see the `local` and `admin` databases. These are specal databases that we will not conver in this tutorial.
+To see which databases currently exist type `show dbs`{{execute}}. by default you will see the `local` and `admin` databases. These are specal databases that we will not cover in this tutorial.
 
 
 # Collection
