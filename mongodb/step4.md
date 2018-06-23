@@ -7,4 +7,4 @@ The `find()` query returns all the documents in the collection. You can see the 
 to format the json to a more readble format. Try it out: `db.users.find().pretty()`{{execute}}i
 
 # Tip
-When trying in the mongo shell, hit `tab` to get auto-suggestions on how to complete the command name
+When typing in the mongo shell, hit `tab` to get auto-suggestions on how to complete the command.

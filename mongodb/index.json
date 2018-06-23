@@ -17,12 +17,16 @@
 	      "text": "step3.md"
       },
       {
-	      "title": "Basic Query",
+	      "title": "The find() command",
 	      "text": "step4.md"
       },
       {
 	      "title": "Document _id",
 	      "text": "step5.md"
+      }
+      {
+	      "title": "Basic Query Syntax",
+	      "text": "step6,md"
       }
 
     ],
