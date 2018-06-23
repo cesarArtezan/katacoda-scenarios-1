@@ -9,15 +9,15 @@
 	"code": "foreground.sh"
       },
       {
-        "title": "Databases",
+        "title": "Basic Concepts",
         "text": "step2.md"
       },
       {
-        "title": "Collections",
+        "title": "Inserting Documents",
         "text": "step3.md"
       },
       {
-	      "title": "Inserting Documents",
+	      "title": "Querying Documents",
 	      "text": "step4.md"
       }
 
