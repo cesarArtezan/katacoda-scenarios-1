@@ -28,8 +28,20 @@
 	      "text": "step6.md"
       },
       {
-	      "title": "Updating Documents",
+	      "title": "Sorting Documents",
 	      "text" : "step7.md"
+      },
+      {
+	      "title": "Updating Documents",
+	      "text" : "step8.md"
+      },
+      {
+	      "title": "Projections",
+	      "text" : "step9.md"
+      },
+      {
+	      "title": "Deleting Documents",
+	      "text" : "step10.md"
       }
 
     ],

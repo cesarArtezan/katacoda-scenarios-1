@@ -1,15 +1,10 @@
-Use the `update()` command to change a document. The `update()` command takes 2 parameters, a `query` to select which documents
-to update, and an `update` instruction, with the details of what to update.
-Typically we use the `$set` operator in the `update` part, to set values to specific fields in the document.
-For example, to update the age of our John Doe user we will do this:
-`db.users.update({fname:"John"},{$set: {age:50}})`{{execute}}
+Sorting query results is donw using the `sort()` command. It takes a single jso nas a parameter. to define
+by which field to sort, and whether to do it in ascending or descneding order.
 
-Using `db.users.findOne({fname:"John"})`{{execute}} will show us the change.
+For example, to sort by our users by age:
 
-`findOne()` will return a single document matching the query. If there are multilpe matching documents, we will get the 1st one.
+In ascending order: `db.users.find().sort({age:1}).pretty()` {{execute}}
 
-By default `update()` will update a single document matching the query part. If we want to update multiple documents we need to explicitly state it.
-`db.users.update({lname:"Doe"},{$set: {age:20}})`{{execute}} only updates one of the users. (See for yourself: `db.users.find()`{{execute}}):
-`db.users.update({lname:"Doe"},{$set:{age:15}},{multi:true})`{{execute}} updates both matching users.
+In decending order: `db.users.find().sort({age:-1}).pretty()`{{execute}}
 
 
