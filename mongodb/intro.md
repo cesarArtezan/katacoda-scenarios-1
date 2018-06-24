@@ -1,4 +1,4 @@
-## In this tutorial you will learn how to use MongoDB. 
+# In this tutorial you will learn how to use MongoDB. 
 
 This is an interactive tutorial that will guide through the basics for working with MongoDB.
 Read the instructions and execute the commands in the linux shell on the right.
