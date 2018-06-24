@@ -7,4 +7,9 @@ Lets insert more users:
 `db.users.insert({fname:"Jane", lname: "Doe", email: "jane.doe@example.com", age:36})`{{execute}}.
 `db.users.insert({fnbame:"Calvin", lname: "Lucas", email: "calvin.lucas@acme.com", "age":31})`{{execute}}
 
-Now we have 3 users in our collection, each with its own unique `_id`. Check it out: `db.users.find().pretty()`{{execute}}
+Now we have 3 users in our collection, each with its own unique `_id`. 
+
+Check it out: `db.users.find().pretty()`{{execute}}
+
+# TIP
+Remember. if the screen get's clattered use `cls`{{execute}} to clear it
