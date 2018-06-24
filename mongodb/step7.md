@@ -1,4 +1,4 @@
-Sorting query results is donw using the `sort()` command. It takes a single jso nas a parameter. to define
+Sorting query results is donw using the `sort()` command. It takes a single json as a parameter. to define
 by which field to sort, and whether to do it in ascending or descneding order.
 
 For example, to sort by our users by age:
