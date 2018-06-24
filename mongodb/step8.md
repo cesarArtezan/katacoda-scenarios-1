@@ -12,7 +12,7 @@ Using `db.users.findOne({fname:"John"})`{{execute}} will show us the change.
 By default `update()` will update a single document matching the query part. If we want to update multiple documents we need to explicitly state it
 by adding `{multi:true}` to the update command. 
 Run the following `update()` commands to see the difference.
-Remenber: use `db.users.find()` to query the `users` collection to see what you have after each `update()`.
+Remember: use `db.users.find()` to query the `users` collection to see what you have after each `update()`.
 
 
 Updating a single document matching the query:

@@ -3,7 +3,7 @@ which documents to remove. Unlike update(), it operates on all matching objects.
 
 Recall what we have in the collection using `find()` (did you remember the syntax?)
 
-Let's remove all users that are younger then 20:
+Let's remove all users that are younger than 20:
 
 `db.users.remove({age:{$lt:20}})`{{execute}}
 
