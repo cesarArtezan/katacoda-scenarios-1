@@ -15,7 +15,7 @@ Finaly, we can use `drop()` to drop the entire collection:
 
 `db.users.drop()`{{execute}}
 
-We no longer have a users collection: `show collections`{{execute}}
+We no longer have a users collection: `show collections`{{execute}} returns an emprty result.
 
 # Tip
 You can use `db.users.remove({})` to remove all documents in a collection, without dropping the collection itself.
