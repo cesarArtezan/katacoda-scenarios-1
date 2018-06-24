@@ -19,4 +19,4 @@ by adding `{{multi:true}` to the update command.
 `db.users.update({lname:"Doe"},{$set:{age:15}},{multi:true})`{{execute}} updates both matching users.
 
 # Tip
-`findOne() will return a single document matching the query - the 1st one that is found.
+`findOne()` will return a single document matching the query - the 1st one that is found.

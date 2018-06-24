@@ -3,7 +3,7 @@ by which field to sort, and whether to do it in ascending or descneding order.
 
 For example, to sort by our users by age:
 
-In ascending order: `db.users.find().sort({age:1}).pretty()` {{execute}}
+In ascending order: `db.users.find().sort({age:1}).pretty()`{{execute}}
 
 In decending order: `db.users.find().sort({age:-1}).pretty()`{{execute}}
 
