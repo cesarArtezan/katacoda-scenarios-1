@@ -10,7 +10,7 @@ The secnod `{}` block is the projection block, which instructs the query to retu
 
 By default the `_id` field is also returned. You can remove that as well:
 
-`db.users.find({},{_id:false, email:1})`{{execute}}
+`db.users.find({},{_id:0, email:1})`{{execute}}
 
 # Tip
 In mongo shell, using the `up` arrow will show you previously run commands, which yo ucna re-run byu hitting ENTER.
